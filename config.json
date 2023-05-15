@@ -1,0 +1,10 @@
+{
+    "db":{
+        "host": "72.163.188.144",
+        "port": 5432,
+        "user": "postgres",
+        "pass": "some-pass",
+        "dbname": "postgres"
+    },
+    "addr": ":8070"
+}
